@@ -1,0 +1,60 @@
+/*Universal style*/
+html {
+    background-color: black; 
+    font-family: Verdana, sans-serif;
+}
+
+/*Header*/
+header {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+/*links*/
+    .comingt {
+    text-align: center;
+    }
+    .comingb {
+        text-align: center;
+        }
+    a {
+    font-size: 16px;
+    text-align: center;
+    color: aquamarine;
+}
+/*video*/
+.video{
+    text-align: center;
+}
+.image-title {
+    color:gray;
+    font-size: 21px;
+    text-align: center;
+
+}
+.image {
+    text-align: center;
+}
+
+.iphone {
+    text-align: center;
+}
+
+.guide {
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+    text-align: center;
+}
+.iphone-android {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+footer{
+    text-align: right;
+    color: gray;
+    padding-right: 3pxgi;
+}
